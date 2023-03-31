@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: azure;
+  }
+
+  .box {
+    background-color: azure;
+    text-align: center;
+    margin: 5px;
+  }
+
+  .img-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  #imgRedonda {
+    width: 200px;
+    height: 200px;
+    border-radius: 160px;
+    border: 10px solid #666;
+    margin: 20px;
+  }
+  
