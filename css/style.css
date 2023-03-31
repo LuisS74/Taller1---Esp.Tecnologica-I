@@ -8,9 +8,10 @@
   .box {
     background-color: azure;
     text-align: center;
-    margin: 5px;
+    flex-direction: row;
+    margin: 7px;
   }
-
+  
   .img-container {
     display: flex;
     justify-content: center;
@@ -20,7 +21,6 @@
     width: 200px;
     height: 200px;
     border-radius: 160px;
-    border: 10px solid #666;
     margin: 20px;
   }
   
